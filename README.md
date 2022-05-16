@@ -13,6 +13,7 @@ Tech talk:
   - Python 3: main programing language
 
 Thank for my team finished life in FPT University with this PROJECT
+
 Lê Trần Minh Quân SE61880 (me)
       -Position: deverloper and tester
         + Code, run tests & fix bugs
