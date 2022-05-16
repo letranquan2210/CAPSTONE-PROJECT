@@ -14,7 +14,7 @@ Tech talk:
 
 Thank for my team finished life in FPT University with this PROJECT
 
-L**ê Trần Minh Quân SE61880 (me)
+-Lê Trần Minh Quân SE61880 (me)
       -Position: deverloper and tester
         + Code, run tests & fix bugs
         + Research on Web App Authentication
