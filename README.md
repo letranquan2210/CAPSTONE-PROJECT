@@ -14,14 +14,14 @@ Tech talk:
 
 Thank for my team finished life in FPT University with this PROJECT
 
-Lê Trần Minh Quân SE61880 (me)
+L**ê Trần Minh Quân SE61880 (me)
       -Position: deverloper and tester
         + Code, run tests & fix bugs
         + Research on Web App Authentication
       -Scope of work/ Main duty:
         + Using Selenium Python to crawl source code web and check value.
         + Build a library with Beautiful Soup (Python) where contain a lots valuable to find login page ( main idea of module crawler) include English and Vietnamese website.
-        + Testing follow module: cralwer and scanner in some website: ladaza.vn, whitehat.vn, twitch.tv, thanhnien.vn, shopee.vn, facebook.com, discord.com,..etc..
+        + Testing follow module: cralwer and scanner in some website: ladaza.vn, whitehat.vn, twitch.tv, thanhnien.vn, shopee.vn, facebook.com, discord.com,..etc..**
         
         
 Dương Đình Lộc HE140882
