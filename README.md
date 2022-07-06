@@ -2,6 +2,7 @@
 CAPSTONE PROJECT: OPTIMIZED SOLUTIONS FOR WEB APPLICATION SCANNERS
 
 **Main ideas of project is web application crawlers and scanners, which are extremely helpful when it comes to detecting vulnerabilities and securing the Web Application**
+
 Tech talk: 
   - Visual Studio code:  IDE for Python 3, HTML, CSS, Javascript
   - Github: source code version control
